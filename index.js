@@ -1,0 +1,1 @@
+console.loog("ïndex")
